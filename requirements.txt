@@ -1,0 +1,8 @@
+1. A command-line tool that derives bip32 addresses and private keys for Bitcoin and many altcoins.
+
+2. Below is the codes to install the hd-wallet-derive
+
+git clone https://github.com/dan-da/hd-wallet-derive
+ cd hd-wallet-derive
+ php -r "readfile('https://getcomposer.org/installer');" | php
+ php composer.phar install
